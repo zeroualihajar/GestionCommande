@@ -3,5 +3,6 @@ Une application web qui gère des commandes de plusieurs clients. Elle est const
 -  Espace client.
 -  Espace produit.
 -  Espace commande.
+
 Chaque espace a les opérations CRUD nécessaires.
 L’application web développée respecte le patron de conception MVC. Les standards JEE « Servlet, JSP, Java Bean »
